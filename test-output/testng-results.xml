@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-28T22:19:38 EET" name="Default suite" finished-at="2023-10-28T22:19:47 EET" duration-ms="9139">
+    <groups>
+    </groups>
+    <test started-at="2023-10-28T22:19:38 EET" name="Default test" finished-at="2023-10-28T22:19:47 EET" duration-ms="9139">
+      <class name="com.spotify.oauth2.Test.PlayListTests">
+        <test-method signature="ShouldBeAbleToCreateAPlayList()[pri:0, instance:com.spotify.oauth2.Test.PlayListTests@51827393]" started-at="2023-10-28T22:19:38 EET" name="ShouldBeAbleToCreateAPlayList" description="User should be able to create a PlayList" finished-at="2023-10-28T22:19:45 EET" duration-ms="7084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToCreateAPlayList -->
+        <test-method signature="ShouldBeAbleToGetAPlayList()[pri:0, instance:com.spotify.oauth2.Test.PlayListTests@51827393]" started-at="2023-10-28T22:19:45 EET" name="ShouldBeAbleToGetAPlayList" description="User should be able to get a PlayList" finished-at="2023-10-28T22:19:46 EET" duration-ms="464" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToGetAPlayList -->
+        <test-method signature="ShouldBeAbleToUpdatePlayList()[pri:0, instance:com.spotify.oauth2.Test.PlayListTests@51827393]" started-at="2023-10-28T22:19:46 EET" name="ShouldBeAbleToUpdatePlayList" description="User should be able to update a PlayList" finished-at="2023-10-28T22:19:46 EET" duration-ms="520" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldBeAbleToUpdatePlayList -->
+        <test-method signature="ShouldNotBeAbleToCreateAPlayListWithExpiredToken()[pri:0, instance:com.spotify.oauth2.Test.PlayListTests@51827393]" started-at="2023-10-28T22:19:46 EET" name="ShouldNotBeAbleToCreateAPlayListWithExpiredToken" description="User shouldn&#039;t be able to create a playlist with expired token" finished-at="2023-10-28T22:19:47 EET" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldNotBeAbleToCreateAPlayListWithExpiredToken -->
+        <test-method signature="ShouldNotBeAbleToCreateAPlayListWithoutName()[pri:0, instance:com.spotify.oauth2.Test.PlayListTests@51827393]" started-at="2023-10-28T22:19:47 EET" name="ShouldNotBeAbleToCreateAPlayListWithoutName" description="User shouldn&#039;t be able to create a playlist without name" finished-at="2023-10-28T22:19:47 EET" duration-ms="434" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ShouldNotBeAbleToCreateAPlayListWithoutName -->
+      </class> <!-- com.spotify.oauth2.Test.PlayListTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

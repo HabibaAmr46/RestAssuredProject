@@ -1,0 +1,20 @@
+RestAssured Project:
+
+Client Id:c7b27fce5a104df6b1836c7bf1187ec3
+Client Secret: acc99d8616af493ebcb697de6238a165
+
+playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public
+
+
+AQBB2DGfYIfsmi4MXmH7JVnGIu-PcTQGmS1GdsXgdRuqE4PhpLl5oMr00uTgcXowYYSXUKeGT0YRWCIhvifxYv1JyIZVWaBP88_BTcChMuBmYBF9Cd6l0YrwOsSk3IrO_dnbULqAtXuCvk5lED1bfE9uRI8fuoiRXTH6dtW0bn97sp_7QtS-J6ZghgHPhClSY6G0NAAOq4hzlyUsmbs0mjZmfUs06wY2WNxSrhxBtjnRwZWRlsojeNnepTLYm2SXabwEQ729yPKuh3SdW7fCqBGrDcdoenRXLHieekDNPw
+
+
+
+{
+    "access_token": "BQBzscuoJm9rTzAt-tzZHSnBKqaPEV3s-u9v5RqVhOaSoyuer458Ez7f8MBUoJC3yx1a0rNAwwJsCMjsgzDdwruBHhEHIi4TSxYcnmmuUlx4BX4juByn7_616gHCXUxjRT--bjJB964LK4Zf5sCIGLZUjmt39ugvcKn46iruBJuuBGeZKH5f5qo6d2SbdmnSFCbN-i6qkiW3NjDYtvAW_4VrWkU2HOYUuW1-M74Q3fTWViHghhN-PwYjwoQC16GeBIrnRrsF0amYysD7",
+    "token_type": "Bearer",
+    "expires_in": 3600,
+    "refresh_token": "AQB7zYjxf0TFWXJToQIxDnQYhGRKI-2wY7xvW1pMA0uSfUaLr-tbZMkSyFmgk7QlnMzC6qO72ONVVCrKlZKE9LXI5USrtvJC-15jXnbt4qSSECXHNPSu0c7MZVHzExj_lms",
+    "scope": "playlist-read-private playlist-read-collaborative playlist-modify-private playlist-modify-public"
+}
+
